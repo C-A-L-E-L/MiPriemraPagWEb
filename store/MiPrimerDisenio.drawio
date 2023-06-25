@@ -1,0 +1,75 @@
+<mxfile host="app.diagrams.net" modified="2023-03-30T20:17:23.100Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="KCBTZknCcrBWqxzwuAxe" version="21.1.2">
+  <diagram name="Página-1" id="jbPjTA9G6AgN6cEMBImG">
+    <mxGraphModel dx="878" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="T-CuA5LMlalb8v_pwt_P-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="T-CuA5LMlalb8v_pwt_P-1" target="T-CuA5LMlalb8v_pwt_P-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T-CuA5LMlalb8v_pwt_P-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T-CuA5LMlalb8v_pwt_P-1" target="T-CuA5LMlalb8v_pwt_P-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T-CuA5LMlalb8v_pwt_P-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="T-CuA5LMlalb8v_pwt_P-1" target="T-CuA5LMlalb8v_pwt_P-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T-CuA5LMlalb8v_pwt_P-1" value="index.jsp&lt;br&gt;" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.home;" vertex="1" parent="1">
+          <mxGeometry x="414" y="130" width="116" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="T-CuA5LMlalb8v_pwt_P-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="T-CuA5LMlalb8v_pwt_P-2" target="T-CuA5LMlalb8v_pwt_P-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T-CuA5LMlalb8v_pwt_P-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="T-CuA5LMlalb8v_pwt_P-2" target="T-CuA5LMlalb8v_pwt_P-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T-CuA5LMlalb8v_pwt_P-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="T-CuA5LMlalb8v_pwt_P-2" target="T-CuA5LMlalb8v_pwt_P-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T-CuA5LMlalb8v_pwt_P-2" value="login.jsp&lt;br&gt;" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#FFCE9F;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.login;" vertex="1" parent="1">
+          <mxGeometry x="412" y="300" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="T-CuA5LMlalb8v_pwt_P-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="T-CuA5LMlalb8v_pwt_P-3" target="T-CuA5LMlalb8v_pwt_P-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T-CuA5LMlalb8v_pwt_P-3" value="&lt;span style=&quot;background-color: rgb(145, 145, 145);&quot;&gt;información.jsp&lt;/span&gt;" style="html=1;whiteSpace=wrap;strokeColor=#b46504;fillColor=#fad7ac;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;sketch=0;shape=mxgraph.sitemap.info;" vertex="1" parent="1">
+          <mxGeometry x="630" y="130" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="T-CuA5LMlalb8v_pwt_P-4" value="&lt;span style=&quot;background-color: rgb(145, 145, 145);&quot;&gt;catalogo.jsp&lt;/span&gt;" style="html=1;whiteSpace=wrap;strokeColor=#b46504;fillColor=#fad7ac;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;sketch=0;shape=mxgraph.sitemap.page;" vertex="1" parent="1">
+          <mxGeometry x="150" y="130" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="T-CuA5LMlalb8v_pwt_P-9" value="menuCliente.jsp" style="html=1;whiteSpace=wrap;strokeColor=#314354;fillColor=#647687;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#ffffff;sketch=0;shape=mxgraph.sitemap.page;" vertex="1" parent="1">
+          <mxGeometry x="220" y="410" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="T-CuA5LMlalb8v_pwt_P-11" value="recuperar.jsp" style="html=1;whiteSpace=wrap;strokeColor=#3A5431;fillColor=#6d8764;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;sketch=0;shape=mxgraph.sitemap.page;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="580" y="410" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="T-CuA5LMlalb8v_pwt_P-12" value="suscribirse.jsp&lt;br&gt;" style="html=1;whiteSpace=wrap;strokeColor=#B20000;fillColor=#e51400;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#ffffff;sketch=0;shape=mxgraph.sitemap.form;" vertex="1" parent="1">
+          <mxGeometry x="412" y="420" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="T-CuA5LMlalb8v_pwt_P-13" value="www.github.com" style="html=1;whiteSpace=wrap;strokeColor=#23445d;fillColor=#bac8d3;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;sketch=0;shape=mxgraph.sitemap.page;" vertex="1" parent="1">
+          <mxGeometry x="630" y="230" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="T-CuA5LMlalb8v_pwt_P-34" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#9AC7BF;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="220" y="430" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="T-CuA5LMlalb8v_pwt_P-35" value="Compras" style="fillColor=#d5e8d4;strokeColor=#82b366;align=left;spacing=20;fontSize=14;gradientColor=#97d077;" vertex="1" parent="T-CuA5LMlalb8v_pwt_P-34">
+          <mxGeometry width="120" height="30" relative="1" as="geometry">
+            <mxPoint y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T-CuA5LMlalb8v_pwt_P-36" value="Historial" style="fillColor=#f8cecc;strokeColor=#b85450;align=left;spacing=20;fontSize=14;gradientColor=#ea6b66;" vertex="1" parent="T-CuA5LMlalb8v_pwt_P-34">
+          <mxGeometry width="120" height="30" relative="1" as="geometry">
+            <mxPoint y="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T-CuA5LMlalb8v_pwt_P-37" value="Cerrar Sesion" style="align=left;spacing=20;fontSize=14;" vertex="1" parent="T-CuA5LMlalb8v_pwt_P-34">
+          <mxGeometry width="120" height="30" relative="1" as="geometry">
+            <mxPoint y="70" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
